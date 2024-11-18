@@ -140,7 +140,7 @@ ABOUT_BTN = [
         #   InlineKeyboardButton(text="❄️ kaynak kod ❄️", callback_data="SOURCE"),
     ],
     [
-        InlineKeyboardButton(text="🐳 duyuru 🐳", url=f"https://t.me/{kumsaldestekkanal}"),
+        InlineKeyboardButton(text="🐳 duyuru 🐳", url=f"https://t.me/{UPDATE_CHNL}"),
         InlineKeyboardButton(text="⦿ geri ⦿", callback_data="BACK"),
     ],
 ]
